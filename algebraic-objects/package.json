@@ -22,5 +22,8 @@
   "homepage": "https://github.com/floh1695/functional-experiments#readme",
   "devDependencies": {
     "just": "^0.1.8"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11"
   }
 }
