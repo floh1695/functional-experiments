@@ -1,0 +1,23 @@
+{
+  "name": "algebraic-objects",
+  "version": "1.0.0",
+  "description": "Objects with algebraic interfaces",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/floh1695/functional-experiments.git"
+  },
+  "keywords": [
+    "functional",
+    "experiment"
+  ],
+  "author": "Charles Bayley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/floh1695/functional-experiments/issues"
+  },
+  "homepage": "https://github.com/floh1695/functional-experiments#readme"
+}
