@@ -4,7 +4,7 @@
   "description": "Objects with algebraic interfaces",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/floh1695/functional-experiments/issues"
   },
-  "homepage": "https://github.com/floh1695/functional-experiments#readme"
+  "homepage": "https://github.com/floh1695/functional-experiments#readme",
+  "devDependencies": {
+    "just": "^0.1.8"
+  }
 }
